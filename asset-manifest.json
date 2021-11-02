@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/reducer-react/static/css/main.df036ebb.chunk.css",
+    "main.js": "/reducer-react/static/js/main.a8b601ba.chunk.js",
+    "main.js.map": "/reducer-react/static/js/main.a8b601ba.chunk.js.map",
+    "runtime-main.js": "/reducer-react/static/js/runtime-main.81a20abe.js",
+    "runtime-main.js.map": "/reducer-react/static/js/runtime-main.81a20abe.js.map",
+    "static/js/2.d18a5f87.chunk.js": "/reducer-react/static/js/2.d18a5f87.chunk.js",
+    "static/js/2.d18a5f87.chunk.js.map": "/reducer-react/static/js/2.d18a5f87.chunk.js.map",
+    "index.html": "/reducer-react/index.html",
+    "static/css/main.df036ebb.chunk.css.map": "/reducer-react/static/css/main.df036ebb.chunk.css.map",
+    "static/js/2.d18a5f87.chunk.js.LICENSE.txt": "/reducer-react/static/js/2.d18a5f87.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.81a20abe.js",
+    "static/js/2.d18a5f87.chunk.js",
+    "static/css/main.df036ebb.chunk.css",
+    "static/js/main.a8b601ba.chunk.js"
+  ]
+}
